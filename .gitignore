@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.DS_Store
+dev-server.log
+output
+.deploy
